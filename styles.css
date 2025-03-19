@@ -1,0 +1,25 @@
+.pic {
+    background: grey;
+    width: 200px;
+    height: 140px;
+    border: 2px;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+}
+
+.words {
+    display: flex;
+}
+
+.top {
+    display: flex;
+    justify-content: space-evenly;
+}
